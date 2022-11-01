@@ -6,7 +6,7 @@ import edu.rpi.legup.utility.Logger;
 public class Legup {
 
     /**
-     * Starts the LegUp Program
+     * Starts the Legup Program
      *
      * @param args arguments to Legup
      */
